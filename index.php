@@ -1,6 +1,8 @@
 <?php
 require 'NiceDog.php';
 
+
+
 function site_url()
 {
     return dirname($_SERVER['PHP_SELF']);
